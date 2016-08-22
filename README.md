@@ -1,0 +1,29 @@
+# chat101
+Simple login and chat app
+- [X] Koa middleware up and running  __*Server*__
+  - [X] logger
+  - [X] favicon
+  - [X] router
+- [X] Webpack  __*Front End*__
+- [X] Material UI platform  __*UI*__
+- [X] Front-End UI screens
+  - [X] login page
+    - [X] UI
+    - [X] functionality
+  - [X] site's starting page
+    - [X] UI
+    - [X] functionality
+  - [X] register page
+    - [X] UI
+    - [X] basic functionality
+    - [ ] validations, uniqueness check
+  - [X] user's home page
+    - [X] UI
+    - [X] functionality
+- [X] JWT, ~~Passport js~~   __*Authentication*__
+  - [X] password encryption
+  - [X] Username and passport validation and responding back with response
+  - [X] Loading the user homepage
+- [ ] Sockets  __*Chat*__
+  - [ ] building UI component
+  - [ ] adding chat functionality
